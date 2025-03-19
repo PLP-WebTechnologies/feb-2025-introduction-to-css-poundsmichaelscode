@@ -1,1 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 20px;
+}
+
+.title {
+  color: #007bff;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.description {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.styled-image {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin: 20px auto;
+  border: 5px solid #007bff;
+  border-radius: 10px;
+}
+
+#content-box {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #0056b3;
+}
 
